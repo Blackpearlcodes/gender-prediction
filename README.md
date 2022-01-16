@@ -17,7 +17,7 @@ Gender Prediction itself is an introdcution, It is a website that predicts gende
 **Logic**: JavaScript
 
 ### Lighthouse Reports
-<a href="https://aadityansha.github.io/gender-prediction/reports/" targer="_blank">https://aadityansha.github.io/gender-prediction/reports/</a>
+<a href="https://aadityansha.github.io/gender-prediction/reports/" target="_blank">https://aadityansha.github.io/gender-prediction/reports/</a>
   
 ### Screenshots
 <HR>
